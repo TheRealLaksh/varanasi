@@ -1,0 +1,48 @@
+======================================
+📄 INSTRUCTIONS TO OPEN THE WEBSITE
+======================================
+Best Viewed In Browser
+
+🏫 This website was created for the **Web Wizards** event, hosted during the **Tech Ramble** competition by *Heritage School, Jammu*.
+
+👨‍💻 Participants:
+- Laksh  
+- Ishan  
+(Representing *Sunbeam School Lahartara*)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 OPTION 1: Use "200 OK" Chrome Extension
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Install the **"200 OK" Web Server** extension from the Chrome Web Store.
+2. Launch the extension and **select the folder** containing this website's code.
+3. Start the server.
+4. Open your browser and navigate to the local address (usually: http://127.0.0.1:8887).
+5. Click `index.html` to open the site.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 OPTION 2: Use Live Server in VS Code
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Open **Visual Studio Code**.
+2. Use **File > Open Folder** and select the folder with this website's code.
+3. Install the **Live Server** extension if not already installed.
+4. Right-click on `index.html` → select **"Open with Live Server"**.
+5. The site will open automatically in your browser.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔹 OPTION 3: View Hosted Online Links
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You can also view the live versions of this website here:
+
+🌐 https://techramble.ishan.vip  
+🌐 https://techramble.lakshp.live  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Notes:
+- Keep all files in the same folder.
+- Do not rename or delete any files.
+- Best viewed in **Google Chrome** or **Microsoft Edge**.
+
+🎉 Thank you for organizing this wonderful opportunity! 
